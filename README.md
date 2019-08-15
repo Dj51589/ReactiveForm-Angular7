@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Live Demo
 
-https://stackblitz.com/edit/reactive-form-in-angular7-gcqic9
+https://stackblitz.com/edit/reactive-form-in-angular7
 
 ## Development server
 
